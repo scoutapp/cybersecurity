@@ -1,8 +1,8 @@
-# Xenon Business Description
+# ScoutAPM Business Description
 
 ## Overview
 
-Xenon operates a portfolio of SaaS applications. Each application customizes this overview to reflect their particular operation.
+[ScoutAPM](ScoutApp.com) is an application performance monitoring service made for application developers. We help our business customers create faster applications that delight their end users. 
 
 ## Support
 
@@ -14,8 +14,8 @@ We attempt to collect as little data as necessary to operate our business; howev
 
 ## CPO/DPO
 
-Our Chief Privacy Officer / Data Protection Officer (a la GDPR) is [Jonathan Siegel](mailto:dpo@xenon.io). Jonathan is a [CISSP&trade;](https://webportal.isc2.org/custom/CertificationVerificationResults.aspx?FN=&LN=siegel&CN=645968) and currently enrolled in [Brown's ECMS program](https://professional.brown.edu/cybersecurity/).
+Our Chief Privacy Officer / Data Protection Officer (a la GDPR) is [Jonathan Siegel](mailto:cyber@scoutapp.com). Jonathan is a [CISSP&trade;](https://webportal.isc2.org/custom/CertificationVerificationResults.aspx?FN=&LN=siegel&CN=645968) and currently enrolled in [Brown's ECMS program](https://professional.brown.edu/cybersecurity/).
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019.
+Copyright ScoutAPM (Zimuth, Inc), 2018-2019.
