@@ -1,6 +1,6 @@
-# Xenon Cybersecurity Plan
+# ScoutAPM Cybersecurity Plan
 
-*Updated January 14th, 2019.*
+*Updated January 31st, 2019.*
 
 ## Schedule
 
@@ -262,7 +262,7 @@ In Massachusetts, this plan can be called a “Cybersecurity Policy,” since Ma
 
 ## Hi Europe
 
-We meet the necessary requirements under EU General Data Protection Regulation (GDPR). Our [Data Processing Addendum (DPA) is available here]() to support customer GDPR compliance needs.
+We meet the necessary requirements under EU General Data Protection Regulation (GDPR). Our [Data Processing Addendum (DPA) is available here](mailto:cyber@scoutapp.com) to support customer GDPR compliance needs.
 
 ## Hi Security Researchers
 
@@ -293,8 +293,8 @@ See [Practices](PRACTICES.md#Inapplicable).
 
 ## CAIQ
 
-Cloud Security Alliance Version 3.0.1 ## Awaiting their approval to retain references to their taxonomy.
+Cloud Security Alliance Version 3.0.1
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019.
+Copyright ScoutAPM (Zimuth, Inc), 2018-2019.
