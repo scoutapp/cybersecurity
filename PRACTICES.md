@@ -149,7 +149,9 @@ CAIQ: CCC-01.
 
 ## External Monitoring
 
-Network and application penetration testing is done on production infrastructure by Qualys. Qualys further ensures that our application and infrastructure adheres to a security baseline (e.g. public surface area acts as expected).
+Application penetration testing is done on production infrastructure by [Detectify](https://detectify.com/). Detectify further ensures that our application and infrastructure adheres to a security baseline (e.g. public surface area acts as expected).
+
+Network penetration testing is provided by [Amazon Web Services](https://aws.amazon.com/whitepapers/).
 
 CAIQ: AAC-02, GRM-01.
 
@@ -217,4 +219,4 @@ CAIQ: STA-01, STA-05, STA-06.
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019.
+Copyright ScoutAPM (Zimuth, Inc), 2018-2019.
