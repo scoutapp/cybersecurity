@@ -54,13 +54,9 @@ When making updates, run ```./utils/add_links``` to add links to GDPR cross-refe
 
  * For the above--who it applies to, where it applies, who is reported to.
 
-## In Use
-
- * [ScoutApp.com](https://scoutapp.com)
- * [Xplenty.com](https://Xplenty.com)
- * [AccountDock.com](https://AccountDock.com)
+## Attribution
+ * Derived from [Xenon's Cybersecurity and Privacy Plan](https://github.com/xenonio/cybersecurity).
 
 # License
 
-Copyright Jonathan Siegel, 2018-2019. Please contact cyber@xenon.io if you would like to re-use or contribute to this plan.
-
+Copyright ScoutAPM (Zimuth, Inc), 2018-2019.
